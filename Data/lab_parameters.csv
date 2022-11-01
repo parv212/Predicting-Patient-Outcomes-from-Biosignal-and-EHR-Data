@@ -1,0 +1,34 @@
+﻿Parameter,Category,Description,Unit,Reference value
+wbc,CBC,White blood cell count,×1000/mcL,4~10
+hb,CBC,Hemoglobin,g/dL,13~17
+hct,CBC,Hematocrit,%,39~52
+plt,CBC,Platelet count,×1000/mcL,130~400
+esr,CBC,Erythrocyte sedimentation rate,mm/hr,0~9
+gluc,Chemistry,Glucose,mg/dL,70~110
+tprot,Chemistry,Total protein,g/dL,6.0~8.0
+alb,Chemistry,Albumin,g/dL,3.3~5.2
+tbil,Chemistry,Total bilirubin,mg/dL,0.2~1.2
+ast,Chemistry,Asparate transferase,IU/L,1~40
+alt,Chemistry,Alanine transferase,IU/L,1~40
+bun,Chemistry,Blood urea nitrogen,mg/dL,10~26
+cr,Chemistry,Creatinine,mg/dL,0.70~1.40
+gfr,Chemistry,Glomerular filtration rate,mL/min/1.73 m2,90~120
+ccr,Chemistry,Creatinine clearance,mL/min,75~125
+na,Chemistry,Sodium,mmol/L,135~145
+k,Chemistry,Potassium,mmol/L,3.5~5.5
+ica,Chemistry,ionized Calcium,mmol/L,1.05~1.35
+cl,Chemistry,Chloride,mmol/L,98~110
+ammo,Chemistry,Ammonia,mcg/dL,27.2~102
+crp,Chemistry,C-reactive protein,mg/dL,0~0.5
+lac,Chemistry,Lactate,mmol/L,0.5~2.2
+ptinr,Coagulation,Prothrombin time (INR),INR,0.8~1.2
+pt%,Coagulation,Prothrombin time (%),%,80~120
+ptsec,Coagulation,Prothrombin time (sec),sec,10.6~12.9
+aptt,Coagulation,Activated partial thromboplastin time,sec,26.7~36.6
+fib,Coagulation,Fibrinogen,mg/dL,192~411
+ph,ABGA,pH,,7.35~7.45
+pco2,ABGA,partial pressure of CO2,mmHg,35~48
+po2,ABGA,partial pressure of O2,mmHg,83~108
+hco3,ABGA,Bicarbonate,mmol/L,18~23.0
+be,ABGA,Base excess,mmol/L,-2.0~3.0
+sao2,ABGA,Arterial oxygen saturation,%,95~98
